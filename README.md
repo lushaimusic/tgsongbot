@@ -23,7 +23,9 @@ Before clicking on deploy to heroku just click on fork and star just below
 </p>
 
 ### Support Group:
-<a href="https://t.me/ZauTeKm"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ZauTeSupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+### Support Channel:
+<a href="https://t.me/ZauTe"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-red.svg?logo=telegram"></a>
 
 ## Deploy to Herokul
 
