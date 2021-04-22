@@ -1,7 +1,7 @@
 # ZauTe Song Bot
 
 ### Demo Bot:
-<a href="https://t.me/ZKSongBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ZKSongBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-green.svg?logo=telegram"></a>
 
 ## Give your 💙
 
