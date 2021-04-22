@@ -37,7 +37,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Channel", url="https://t.me/TGBotSzK"
+                        text="Source Code", url="https://githup.com/ZauTeKm/ZKSongBot"
                     ),
                     InlineKeyboardButton(
                         text="Group", url="https://t.me/ZauTeSupport"
@@ -54,5 +54,5 @@ async def start(client, message):
     await message.reply(help_text)
 
 app.start()
-LOGGER.info("ZαuTe Song Downloαder is online.")
+LOGGER.info("ZauTe Song Bot is online.")
 idle()
