@@ -27,7 +27,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 ### Support Channel:
 <a href="https://t.me/ZauTeKm"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-red.svg?logo=telegram"></a>
 
-## Deploy to Herokul
+## Deploy to Heroku
 
 The easiest way to deploy this Song Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ZauTeKm/ZKSongBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
