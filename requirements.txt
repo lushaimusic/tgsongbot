@@ -1,0 +1,10 @@
+youtube_search
+requests
+youtube_dl
+aiohttp
+Pyrogram
+Tgcrypto
+asyncio
+wget
+aiofiles
+OpenCC
