@@ -2,7 +2,7 @@
 
 ## A telegram bot that can download songs
 <p align="center">
-  <img src="https://telegra.ph/file/172120c93b52738be277b.jpg">
+  <img src="https://telegra.ph/file/78fe41cc88d0b8a472ef0.jpg">
 </p>
 
 Reach me on Telegram [Song Bot 🎵](https://t.me/ZKSongBot)
