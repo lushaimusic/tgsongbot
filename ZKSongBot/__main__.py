@@ -13,18 +13,17 @@ pm_start_text = """
 
 Send me /help for know my commands
 
-➟ <b>Mαde by @ZauTeKm</b>
+➟ <b>Mαde by ▷ @ZauteKm</b>
 """
 
 help_text = """
-<b>Helpful Commands</b>
-
+<b><u>Helpful Commands</u></b>
 - /song <song name>: Download songs via Youtube
 - /saavn <song name>: Download songs via JioSaavn
 - /deezer <song name>: Download songs via Deezer
 - Send youtube url to my pm for download it on audio format
 
-➟ <b>Mαde by @ZauTeKm</b>
+➟ <b>Mαde by ▷ @ZauteKm</b>
 """
 
 @app.on_message(filters.command("start"))
@@ -36,15 +35,16 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        text="Source Code", url="https://githup.com/ZauTeKm/ZKSongBot"
-                    ),
-                    InlineKeyboardButton(
-                        text="Group", url="https://t.me/ZauTeSupport"
-                    )
-                ]
+                    InlineKeyboardButton('Channel', url='https://telegram.me/TGBotSzK'),
+                    InlineKeyboardButton('Feedback', url='https://telegram.me/zautebot')
+              ],[
+                    InlineKeyboardButton('Source', url='https://githup.com/ZauteKm/ZKSongBot'),
+                    InlineKeyboardButton('Bot Lists', url='https://t.me/TG_BotList/37'),
+                    InlineKeyboardButton('Music', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+               ]
             ]
         )
+    )
     else:
         btn = None
     await message.reply(pm_start_text.format(name, user_id), reply_markup=btn)
@@ -54,5 +54,5 @@ async def start(client, message):
     await message.reply(help_text)
 
 app.start()
-LOGGER.info("ZauTe Song Bot is online.")
+LOGGER.info("ZKSongBot is online.")
 idle()
