@@ -37,14 +37,14 @@ async def start(client, message):
                 [
                     InlineKeyboardButton('Channel', url='https://telegram.me/TGBotSzK'),
                     InlineKeyboardButton('Feedback', url='https://telegram.me/zautebot')
-              ],[
+                  ],[
                     InlineKeyboardButton('Source', url='https://githup.com/ZauteKm/ZKSongBot'),
                     InlineKeyboardButton('Bot Lists', url='https://t.me/TG_BotList/37'),
-                    InlineKeyboardButton('Music', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
-               ]
+                    InlineKeyboardButton('Music', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl'
+                   )
+                ]
             ]
         )
-    )
     else:
         btn = None
     await message.reply(pm_start_text.format(name, user_id), reply_markup=btn)
