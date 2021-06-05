@@ -35,12 +35,14 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Channel', url='https://telegram.me/TGBotSzK'),
-                    InlineKeyboardButton('Feedback', url='https://telegram.me/zautebot')
+                    InlineKeyboardButton('👥 Group', url='https://t.me/InFoJosTelGroup'),
+                    InlineKeyboardButton('Channel 📢', url='https://telegram.me/InFoJosTel')
                   ],[
-                    InlineKeyboardButton('Source', url='https://githup.com/ZauteKm/ZKSongBot'),
-                    InlineKeyboardButton('Bot Lists', url='https://t.me/TG_BotList/37'),
-                    InlineKeyboardButton('Music', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl'
+                    InlineKeyboardButton('🙄 Source', url='https://githup.com/InFoJosTel/ZKSongBot'),
+                    InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
+                    InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl'
+                  ],[
+                    InlineKeyboardButton('✨ Subscribe Now YouTube ✨', url='https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ')
                    )
                 ]
             ]
