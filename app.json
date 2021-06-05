@@ -1,5 +1,5 @@
 {
-    "name": "ZauTe Song Bot",
+    "name": "Song Bot",
     "description": "A bot that can download songs.",
     "logo": "https://telegra.ph/file/78fe41cc88d0b8a472ef0.jpg",
     "keywords": [
@@ -9,7 +9,7 @@
         "ZauTe Bots"
     ],
     "website": "https://zautekm.blogspot.com",
-    "repository": "https://github.com/ZauTeKm/ZKSongBot",
+    "repository": "https://github.com/InFoJosTel/ZKSongBot",
     "success_url": "https://t.me/ZauTeKm",
     "env": {
         "BOT_TOKEN": {
