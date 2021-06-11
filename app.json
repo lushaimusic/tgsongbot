@@ -6,10 +6,10 @@
         "ZKSongBot",
         "Song Downloader",
         "Telegram Bot",
-        "ZauTe Bots"
+        "InFoJosTel Botz"
     ],
     "website": "https://zautekm.blogspot.com",
-    "repository": "https://github.com/InFoJosTel/ZKSongBot",
+    "repository": "https://github.com/LushaiMusic/ZKSongBot",
     "success_url": "https://t.me/ZauTeKm",
     "env": {
         "BOT_TOKEN": {
