@@ -35,8 +35,8 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('👥 Group', url='https://t.me/https://t.me/iZaute/5'),
-                    InlineKeyboardButton('Channel 📢', url='https://telegram.me/https://t.me/iZaute/6')
+                    InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
+                    InlineKeyboardButton('Channel 📢', url='https://t.me/iZaute/6')
                   ],[
                     InlineKeyboardButton('🙄 Source', url='https://t.me/iZaute/7'),
                     InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/iZaute/8'),
