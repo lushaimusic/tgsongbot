@@ -11,7 +11,7 @@ from ZKSongBot import LOGGER
 pm_start_text = """
 <b>Hi [{}](tg://user?id={}), I'm Song Downloader Bot.</b>
 
-Send me /help for know my commands
+Send me /help for know my commands.
 
 ➟ <b>Mαde by ▷ @ZauteKm</b>
 """
