@@ -13,7 +13,7 @@ pm_start_text = """
 
 Send me /help for know my commands.
 
-➟ <b>Mαde by ▷ @ZauteKm</b>
+➟ <b>Mαde by ▷ @abhinasroy</b>
 """
 
 help_text = """
@@ -23,7 +23,7 @@ help_text = """
 - /deezer <song name>: Download songs via Deezer
 - Send youtube url to my pm for download it on audio format
 
-➟ <b>Mαde by ▷ @ZauteKm</b>
+➟ <b>Mαde by ▷ @abhinasroy</b>
 """
 
 @app.on_message(filters.command("start"))
@@ -35,14 +35,14 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                    InlineKeyboardButton('Channel 📢', url='https://t.me/iZaute/6')
+                    InlineKeyboardButton('👥 Group', url='https://t.me/DOSTI_GROUP_1234'),
+                    InlineKeyboardButton('Channel 📢', url='https://t.me/ABOUT_ABHINAS')
                   ],[
-                    InlineKeyboardButton('🙄 Source', url='https://t.me/iZaute/7'),
-                    InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/iZaute/8'),
-                    InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+                    InlineKeyboardButton('🙄 Owner', url='https://t.me/abhinasroy'),
+                    InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/ABOUT_ABHINAS'),
+                    InlineKeyboardButton('Study Group👨‍🎤', url='https://t.me/studymaterial5555')
                   ],[
-                    InlineKeyboardButton('✨ Subscribe Now YouTube ✨', url='https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ')
+                    InlineKeyboardButton('✨ Study Channel ✨', url='https://t.me/studymaterial4758')
                 ]
             ]
         )
