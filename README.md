@@ -1,4 +1,4 @@
-# Telegram Song Boe
+# Telegram Song Bot
 
 ### Demo Bot:
 <a href="https://t.me/ZKSongBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-red.svg?logo=telegram"></a>
@@ -8,7 +8,7 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/lshaimusic/tgsongbot/fork">
+  <a href="https://github.com/lushaimusic/tgsongbot/fork">
     <img src="https://img.shields.io/github/forks/lushaimusic/tgsongbotBot?label=Fork&style=social">
     
   </a>
